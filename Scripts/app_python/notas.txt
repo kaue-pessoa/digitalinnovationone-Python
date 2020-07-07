@@ -1,0 +1,4 @@
+Rafael, 10,10,5,5
+Felepe, 7,8,5,6
+Galliane, 7,6,5,6
+Celso, 7,6,3,8
